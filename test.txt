@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master stuf
+=======
+hi there this is a test file in master branch
+and editing this file in the git repos
+>>>>>>> c1eb7310704dadc63b67003573aad48fd44627bb
