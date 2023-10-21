@@ -1,2 +1,7 @@
 hi there this is a test file
+<<<<<<< HEAD
 and i am editing this file
+=======
+and editing this file to add to a new branch
+>>>>>>> f7c097564a962cee141614b07b0a2b53d85f2ec6
+and i am editing it on the tree branch in local repo
