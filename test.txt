@@ -1,2 +1,2 @@
 hi there this is a test file
-and i am editing this file
+this is a change made before pushing it into a git repository
